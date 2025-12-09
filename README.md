@@ -704,7 +704,7 @@ To connect to the process using IntelliJ:
 * Choose "Go Remote" on the left
 * Click on the "+" buttion on the top-left
 * Give it a nice _name_ and set "Host" to `localhost` and "Port" to the port in the
-  environment variable (`SOONG_UI_DELVE` for `soong_ui`, `SOONG_DELVE` for
+  enviro0nment variable (`SOONG_UI_DELVE` for `soong_ui`, `SOONG_DELVE` for
   `soong_build`)
 * Set the breakpoints where you want application to stop
 * Run the build from the command line
